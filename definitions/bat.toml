@@ -1,0 +1,36 @@
+[package]
+name = "bat"
+description = "Clone of cat(1) with syntax highlighting and Git integration"
+license = "Apache-2.0"
+homepage = "https://github.com/sharkdp/bat"
+url = "https://github.com/sharkdp/bat/archive/v0.18.0.tar.gz"
+sha256 = "49d1b95250050df47753c213b5e48953a029c9e74753cef371051b14c9d629b8"
+
+[binaries]
+  [binaries.big_sur_arm] # Big Sur (arn)
+  url = ""
+  version = ""
+  sha256 = ""
+  available = false
+
+  [binaries.big_sur] # Big Sur
+  url = "link-naar-downoad"
+  version = "11.0.2"
+  sha256 = "eeee"
+  available = true
+
+  [binaries.catalina] # Catalina
+  url = "link-naar-downoad"
+  version = "11.0.2"
+  sha256 = "eeee"
+  available = true
+
+  [binaries.mojave] # Mojave
+  url = "link-naar-downoad"
+  version = "11.0.2"
+  sha256 = "eeee"
+  available = true
+
+[build]
+dependencies = ["rust"]
+steps = ["cargo install $STEW_CARGO_ARGS"]
