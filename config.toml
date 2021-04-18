@@ -1,0 +1,4 @@
+[repository]
+name = "stew/core"
+packagesPath = "packages"
+maintainer = "Sting Alleman <stingalleman@icloud.com>"
