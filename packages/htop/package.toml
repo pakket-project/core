@@ -1,0 +1,8 @@
+[package]
+name = "htop"
+description = "Improved top (interactive process viewer)"
+license = "GPL-2.0-or-later"
+latest = "3.0.5"
+homepage = "https://htop.dev/"
+url = "https://github.com/htop-dev/htop/archive/3.0.5.tar.gz"
+sha256 = "4c2629bd50895bd24082ba2f81f8c972348aa2298cc6edc6a21a7fa18b73990c"

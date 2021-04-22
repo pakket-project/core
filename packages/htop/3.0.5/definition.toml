@@ -1,0 +1,7 @@
+[dependencies]
+dependencies = ["ncurses"]
+buildDependencies = ["autoconf", "automake", "libtool", "pkg-config", "python@3.9", ""]
+optionalDependencies = []
+
+[binaries]
+supportsRosetta = false
