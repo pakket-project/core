@@ -1,0 +1,14 @@
+[[dependencies]]
+name = "rust"
+version = "latest"
+optional = false
+build = true
+
+[binaries]
+supportsRosetta = true
+
+  [[binaries.intel]]
+  url = "https://github.com/sharkdp/bat/releases/download/v0.18.0/bat-v0.18.0-x86_64-apple-darwin.tar.gz"
+  binPath = "bat"
+  sha256 = "86583f06b490278fed45407f34afb17d674a8c8c6e8c70bcee5e9bcbf7f3f548"
+  supportedVersions = ["all"]
