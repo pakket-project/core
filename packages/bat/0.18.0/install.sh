@@ -1,3 +1,4 @@
 #!/bin/bash
 
-cargo install "$STEW_CARGO_ARGS"
+# cargo install "$STEW_CARGO_ARGS"
+echo "hi"
