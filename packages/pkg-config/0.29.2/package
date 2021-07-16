@@ -1,0 +1,16 @@
+#!/bin/bash
+
+cd pkg-config-0.29.2
+
+./configure --disable-debug --prefix="$(pwd)"/prefix --disable-host-tool --with-internal-glib
+make
+make install
+
+cd prefix
+
+# Move to /bin folder
+mkdir "$STEW_PKG_PATH/bin"
+install "bin/pkg-config" "$STEW_PKG_PATH/bin"
+
+# share
+mv "share" "$STEW_PKG_PATH"

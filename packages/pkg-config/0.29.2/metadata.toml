@@ -1,12 +1,12 @@
-url = "https://github.com/sharkdp/bat/archive/refs/tags/v0.18.0.tar.gz"
+url = "https://pkgconfig.freedesktop.org/releases/pkg-config-0.29.2.tar.gz"
 
 [dependencies]
 dependencies = []
-buildDependencies = ["rust"]
+buildDependencies = []
 optionalDependencies = []
 
 [binaries]
-supportsRosetta = true
+supportsRosetta = false
 
 [[binaries.intel]]
 url = "https://github.com/sharkdp/bat/releases/download/v0.18.0/bat-v0.18.0-x86_64-apple-darwin.tar.gz"
