@@ -9,12 +9,12 @@ optionalDependencies = []
 supportsRosetta = false
 
 [[binaries.intel]]
-url = "https://github.com/sharkdp/bat/releases/download/v0.18.0/bat-v0.18.0-x86_64-apple-darwin.tar.gz"
+url = "https://packages.stewproject.sh/pkg-config/0.29.2/pkg-config-0.29.2-intel.tar.xz"
 binPath = "bat"
-sha256 = "86583f06b490278fed45407f34afb17d674a8c8c6e8c70bcee5e9bcbf7f3f548"
+sha256 = "30af1df2395bb81457c3bd59ed3c3cd272f115a0e70aeca527509779455b6c1c"
 supportedVersions = ["all"]
 
 [[binaries.silicon]]
 url = "https://packages.stewproject.sh/bat/0.18.0/bat-0.18.0-silicon.tar.xz"
-sha256 = "5128427093c5ae4789b92938a1e3608875962be58c474e0dc325e69c7523436b"
+sha256 = "3c67ca9fee757ee29e67396286ce840142bfa331cfc5e194514fea08d8134007"
 supportedVersions = ["all"]
