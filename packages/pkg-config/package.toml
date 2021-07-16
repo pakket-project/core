@@ -2,7 +2,7 @@
 name = "pkg-config"
 description = "Manage compile and link flags for libraries"
 license = "GPL-2.0-or-later"
-version = "0.29.0"
+version = "0.29.2"
 homepage = "https://freedesktop.org/wiki/Software/pkg-config/"
 head = "https://gitlab.freedesktop.org/pkg-config/pkg-config.git"
-availableVersions = ["0.29.0"]
+availableVersions = ["0.29.2"]
