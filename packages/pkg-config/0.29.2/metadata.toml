@@ -10,7 +10,6 @@ supportsRosetta = false
 
 [[binaries.intel]]
 url = "https://packages.stewproject.sh/pkg-config/0.29.2/pkg-config-0.29.2-intel.tar.xz"
-binPath = "bat"
 sha256 = "30af1df2395bb81457c3bd59ed3c3cd272f115a0e70aeca527509779455b6c1c"
 supportedVersions = ["all"]
 
