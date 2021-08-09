@@ -1,0 +1,18 @@
+#!/bin/bash
+
+cd htop-3.0.5
+
+./autogen.sh
+
+./configure --prefix="$(pwd)"/prefix
+make
+make install
+
+cd prefix
+
+# Move to /bin folder
+mkdir "$STEW_PKG_PATH/bin"
+install "bin/htop" "$STEW_PKG_PATH/bin"
+
+# share
+mv "share" "$STEW_PKG_PATH"

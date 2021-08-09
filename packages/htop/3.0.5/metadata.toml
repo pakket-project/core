@@ -1,7 +1,26 @@
+url = "https://github.com/htop-dev/htop/archive/3.0.5.tar.gz"
+
 [dependencies]
 dependencies = ["ncurses"]
-buildDependencies = ["autoconf", "automake", "libtool", "pkg-config", "python@3.9", ""]
+buildDependencies = [
+  "autoconf",
+  "automake",
+  "libtool",
+  "pkg-config",
+  "python@3.9",
+]
 optionalDependencies = []
 
 [binaries]
 supportsRosetta = false
+
+[[binaries.intel]]
+url = "https://packages.stewproject.sh/pkg-config/0.29.2/pkg-config-0.29.2-intel.tar.xz"
+binPath = "bat"
+sha256 = "30af1df2395bb81457c3bd59ed3c3cd272f115a0e70aeca527509779455b6c1c"
+supportedVersions = ["all"]
+
+[[binaries.silicon]]
+url = "https://packages.stewproject.sh/pkg-config/0.29.2/pkg-config-0.29.2-silicon.tar.xz"
+sha256 = "3c67ca9fee757ee29e67396286ce840142bfa331cfc5e194514fea08d8134007"
+supportedVersions = ["all"]
