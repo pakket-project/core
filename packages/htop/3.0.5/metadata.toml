@@ -15,12 +15,11 @@ optionalDependencies = []
 supportsRosetta = false
 
 [[binaries.intel]]
-url = "https://packages.stewproject.sh/pkg-config/0.29.2/pkg-config-0.29.2-intel.tar.xz"
-binPath = "bat"
-sha256 = "30af1df2395bb81457c3bd59ed3c3cd272f115a0e70aeca527509779455b6c1c"
+url = "https://packages.stewproject.sh/htop/3.0.5/htop-3.0.5-intel.tar.xz"
+sha256 = "c99fd55934bf8ac6591ce184aadeac52bcb30d691a1d23328cbf6cbf31505d35"
 supportedVersions = ["all"]
 
 [[binaries.silicon]]
-url = "https://packages.stewproject.sh/pkg-config/0.29.2/pkg-config-0.29.2-silicon.tar.xz"
-sha256 = "3c67ca9fee757ee29e67396286ce840142bfa331cfc5e194514fea08d8134007"
+url = "https://packages.stewproject.sh/htop/3.0.5/htop-3.0.5-silicon.tar.xz"
+sha256 = "e45cbf51c82c98fca0fa3080c962f8c9521e1d4653e979babd307084b63bf8b4"
 supportedVersions = ["all"]
