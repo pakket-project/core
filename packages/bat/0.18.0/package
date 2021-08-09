@@ -7,14 +7,14 @@ cargo build --manifest-path "Cargo.toml" --release
 
 # Move to /bin folder
 mkdir "$STEW_PKG_PATH/bin"
-install "target/release/bat" "$STEW_PKG_PATH/bin"
+install "target/release/bat" "$STEW_PKG_PATH/bin/bat"
 
 # manual
 mkdir -p "$STEW_PKG_PATH/share/man/man1"
 install "assets/manual/bat.1.in" "$STEW_PKG_PATH/share/man/man1/bat.1"
 
 # completions
-mkdir -p "$STEW_PKG_PATH/completions/fish"
-mkdir -p "$STEW_PKG_PATH/completions/bat"
-install "assets/completions/bat.fish.in" "$STEW_PKG_PATH/completions/fish/bat.fish"
-install "assets/completions/bat.zsh.in" "$STEW_PKG_PATH/completions/bat/bat.zsh"
+mkdir -p "$STEW_PKG_PATH/share/fish/vendor_completions.d"
+mkdir -p "$STEW_PKG_PATH/share/zsh/site-functions"
+install "assets/completions/bat.fish.in" "$STEW_PKG_PATH/share/fish/vendor_completions.d/bat.fish"
+install "assets/completions/bat.zsh.in" "$STEW_PKG_PATH/share/zsh/site-functions/_bat"

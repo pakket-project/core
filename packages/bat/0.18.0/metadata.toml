@@ -10,10 +10,10 @@ supportsRosetta = true
 
 [[binaries.intel]]
 url = "https://packages.stewproject.sh/bat/0.18.0/bat-0.18.0-intel.tar.xz"
-sha256 = "b91b8386711b9fdce0040af4d2762d5afc21ff435f635d77d35629eb26cd11f9"
+sha256 = "b42c8052dee8324187e39d448f8b0a25f44f94e02a9f1c8f2da9c724225eda60"
 supportedVersions = ["all"]
 
 [[binaries.silicon]]
 url = "https://packages.stewproject.sh/bat/0.18.0/bat-0.18.0-silicon.tar.xz"
-sha256 = "5cd8742f5e01d9aa5696a13c6d92b1a09504eea051fe80ad35c3e0558c2917b1"
+sha256 = "e02a4bde991723d9e713c139434dc7a35d8c5d7b3b89eb663a8ecc559f793574"
 supportedVersions = ["all"]
