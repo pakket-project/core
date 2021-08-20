@@ -5,15 +5,10 @@ dependencies = []
 buildDependencies = ["rust"]
 optionalDependencies = []
 
-[binaries]
 supportsRosetta = true
 
-[[binaries.intel]]
-url = "https://packages.stewproject.sh/bat/0.18.0/bat-0.18.0-intel.tar.xz"
+[intel]
 sha256 = "b42c8052dee8324187e39d448f8b0a25f44f94e02a9f1c8f2da9c724225eda60"
-supportedVersions = ["all"]
 
-[[binaries.silicon]]
-url = "https://packages.stewproject.sh/bat/0.18.0/bat-0.18.0-silicon.tar.xz"
+[silicon]
 sha256 = "e02a4bde991723d9e713c139434dc7a35d8c5d7b3b89eb663a8ecc559f793574"
-supportedVersions = ["all"]
