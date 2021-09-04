@@ -1,11 +1,11 @@
 url = "https://pkgconfig.freedesktop.org/releases/pkg-config-0.29.2.tar.gz"
+supportsRosetta = false
 
 [dependencies]
 dependencies = []
 buildDependencies = []
 optionalDependencies = []
 
-supportsRosetta = false
 
 [intel]
 hash = "30af1df2395bb81457c3bd59ed3c3cd272f115a0e70aeca527509779455b6c1c"

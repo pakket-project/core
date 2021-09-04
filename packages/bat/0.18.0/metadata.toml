@@ -1,11 +1,10 @@
 url = "https://github.com/sharkdp/bat/archive/refs/tags/v0.18.0.tar.gz"
+supportsRosetta = true
 
 [dependencies]
 dependencies = []
 buildDependencies = ["rust"]
 optionalDependencies = []
-
-supportsRosetta = true
 
 [intel]
 hash = "b42c8052dee8324187e39d448f8b0a25f44f94e02a9f1c8f2da9c724225eda60"

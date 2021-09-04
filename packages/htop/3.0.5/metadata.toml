@@ -1,4 +1,5 @@
 url = "https://github.com/htop-dev/htop/archive/3.0.5.tar.gz"
+supportsRosetta = false
 
 [dependencies]
 dependencies = ["ncurses"]
@@ -10,8 +11,6 @@ buildDependencies = [
   "python@3.9",
 ]
 optionalDependencies = []
-
-supportsRosetta = false
 
 [intel]
 hash = "c99fd55934bf8ac6591ce184aadeac52bcb30d691a1d23328cbf6cbf31505d35"
