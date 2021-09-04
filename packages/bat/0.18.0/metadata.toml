@@ -8,7 +8,7 @@ optionalDependencies = []
 supportsRosetta = true
 
 [intel]
-sha256 = "b42c8052dee8324187e39d448f8b0a25f44f94e02a9f1c8f2da9c724225eda60"
+hash = "b42c8052dee8324187e39d448f8b0a25f44f94e02a9f1c8f2da9c724225eda60"
 
 [silicon]
-sha256 = "e02a4bde991723d9e713c139434dc7a35d8c5d7b3b89eb663a8ecc559f793574"
+hash = "e02a4bde991723d9e713c139434dc7a35d8c5d7b3b89eb663a8ecc559f793574"
