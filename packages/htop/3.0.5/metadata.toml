@@ -13,7 +13,7 @@ buildDependencies = [
 optionalDependencies = []
 
 [intel]
-hash = "c99fd55934bf8ac6591ce184aadeac52bcb30d691a1d23328cbf6cbf31505d35"
+checksum = "c99fd55934bf8ac6591ce184aadeac52bcb30d691a1d23328cbf6cbf31505d35"
 
 [silicon]
-hash = "e45cbf51c82c98fca0fa3080c962f8c9521e1d4653e979babd307084b63bf8b4"
+checksum = "e45cbf51c82c98fca0fa3080c962f8c9521e1d4653e979babd307084b63bf8b4"
