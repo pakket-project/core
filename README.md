@@ -1,2 +1,3 @@
-# packages
-Core packages for Stew.
+# core
+
+Core packages for pakket.

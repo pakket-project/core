@@ -1,5 +1,0 @@
-[repository]
-name = "core"
-author = "stew"
-packagesPath = "packages"
-maintainers = ["Sting Alleman <https://github.com/stingalleman>"]

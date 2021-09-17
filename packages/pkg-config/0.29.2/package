@@ -9,8 +9,8 @@ make install
 cd prefix
 
 # Move to /bin folder
-mkdir "$STEW_PKG_PATH/bin"
-install "bin/pkg-config" "$STEW_PKG_PATH/bin"
+mkdir "$PAKKET_PKG_PATH/bin"
+install "bin/pkg-config" "$PAKKET_PKG_PATH/bin"
 
 # share
-mv "share" "$STEW_PKG_PATH"
+mv "share" "$PAKKET_PKG_PATH"
