@@ -1,0 +1,13 @@
+url = "https://github.com/dylanaraps/neofetch/archive/refs/tags/7.1.0.tar.gz"
+supportsRosetta = false
+
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = "6282d0d502a2a0d5bbad64b47c70d5a6b2a2853a6e82f8f5ee10b19c8a72cab8"
+
+[silicon]
+checksum = "6282d0d502a2a0d5bbad64b47c70d5a6b2a2853a6e82f8f5ee10b19c8a72cab8"
