@@ -1,0 +1,13 @@
+url = "https://github.com/dylanaraps/pfetch/archive/refs/tags/0.6.0.tar.gz"
+supportsRosetta = false
+
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = "1b0db09e25b944d0fe3957852ecc21e1caf1d6b4246084f724d286765f2d1b1c"
+
+[silicon]
+checksum = "1b0db09e25b944d0fe3957852ecc21e1caf1d6b4246084f724d286765f2d1b1c"
