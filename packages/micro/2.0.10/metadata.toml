@@ -1,0 +1,13 @@
+url = 'https://github.com/zyedidia/micro/archive/refs/tags/v2.0.10.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = ['go']
+optionalDependencies = []
+
+[intel]
+checksum = ''
+
+[silicon]
+checksum = '6b243081c4164e00bb7dc4f12184995fbac685040ef621bebe3623a3b61b7ed1'
+
