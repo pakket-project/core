@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd croc-9.3.0 || exit
+
+go build .
+
+mkdir "$PAKKET_PKG_PATH/bin"
+mv croc "$PAKKET_PKG_PATH/bin"

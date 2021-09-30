@@ -1,0 +1,12 @@
+url = 'https://github.com/schollz/croc/archive/refs/tags/v9.3.0.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = ['go']
+optionalDependencies = []
+
+[intel]
+checksum = ''
+
+[silicon]
+checksum = 'c0fe3ffad23ab8d2c7dc40fc4ddd0488d10e104e2271280fb24f91aee2a12af8'
