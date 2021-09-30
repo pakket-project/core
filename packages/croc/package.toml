@@ -1,0 +1,8 @@
+[package]
+name = "croc"
+description = "Easily and securely send things from one computer to another"
+license = "MIT"
+version = "9.3.0"
+homepage = "https://github.com/schollz/croc"
+head = "https://github.com/schollz/croc.git"
+availableVersions = ["9.3.0"]
