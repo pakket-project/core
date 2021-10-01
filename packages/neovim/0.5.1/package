@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd neovim-0.5.1 || exit
+
+# Build package
+make -j$(nproc)
+
+# Install package
+make CMAKE_INSTALL_PREFIX="/$PAKKET_PKG_PATH" install

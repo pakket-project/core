@@ -1,0 +1,13 @@
+url = 'https://github.com/neovim/neovim/archive/refs/tags/v0.5.1.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = 'f9852282544aa839488901abc3667162501ddb87191c2dbf306d5195b36295db'
+
+[silicon]
+checksum = ''
+
