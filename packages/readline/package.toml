@@ -1,0 +1,9 @@
+[package]
+name = "readline"
+description = "Library for command-line editing"
+license = "GPL-3.0-or-later"
+version = "8.1"
+homepage = "https://tiswww.case.edu/php/chet/readline/rltop.html"
+head = "https://git.savannah.gnu.org/cgit/readline.git"
+availableVersions = ["8.1"]
+maintainers=["Wouter de Bruijn <wouter@debruijn.dev>"]
