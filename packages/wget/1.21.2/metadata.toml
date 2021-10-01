@@ -1,0 +1,13 @@
+url = 'https://ftp.gnu.org/gnu/wget/wget-1.21.2.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = ['openssl']
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = ''
+
+[silicon]
+checksum = 'c7b955d2ea2f28cc984c79eee22136af11c7005363f0ec68314d52bdd9a857d9'
+

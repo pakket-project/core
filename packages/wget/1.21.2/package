@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd wget-1.21.2 || exit
+
+#TODO add openssl flags
+./configure --prefix=$PAKKET_PKG_PATH --disable-pcre --disable-pcre2 --without-libpsl --without-included-regex
+make install
