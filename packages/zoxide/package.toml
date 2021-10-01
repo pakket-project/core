@@ -1,0 +1,9 @@
+[package]
+name = "zoxide"
+description = "A smarter cd command."
+maintainers = ["Kees van Voorthuizen <me@keesvv.nl>"]
+license = "MIT"
+version = "0.7.5"
+homepage = "https://github.com/ajeetdsouza/zoxide"
+head = "https://github.com/ajeetdsouza/zoxide.git"
+availableVersions = ["0.7.5"]

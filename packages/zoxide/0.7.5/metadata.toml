@@ -1,0 +1,13 @@
+url = 'https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v0.7.5.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = ['rust']
+optionalDependencies = []
+
+[intel]
+checksum = '60f1d8f9624efa86ae351c3d2f3b2fa46cb341f6b5275ffd04a2bef31f88ffb1'
+
+[silicon]
+checksum = ''
+
