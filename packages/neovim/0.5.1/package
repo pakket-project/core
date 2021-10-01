@@ -3,7 +3,7 @@
 cd neovim-0.5.1 || exit
 
 # Build package
-make -j$(nproc)
+make -j$(sysctl -n hw.ncpu)
 
 # Install package
 make CMAKE_INSTALL_PREFIX="/$PAKKET_PKG_PATH" install

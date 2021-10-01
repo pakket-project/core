@@ -2,7 +2,7 @@ url = 'https://github.com/neovim/neovim/archive/refs/tags/v0.5.1.tar.gz'
 supportsRosetta = false
 [dependencies]
 dependencies = []
-buildDependencies = []
+buildDependencies = ["ninja", "libtool", "automake", "cmake", "pkg-config", "gettext", "curl"]
 optionalDependencies = []
 
 [intel]
