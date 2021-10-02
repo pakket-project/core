@@ -1,0 +1,13 @@
+url = 'https://github.com/ninja-build/ninja/archive/refs/tags/v1.10.2.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = ['cmake']
+optionalDependencies = []
+
+[intel]
+checksum = '0bc752b16df76c8ac4de6833b519c2da75ba766b26c9151f5fa3c0172bf953b1'
+
+[silicon]
+checksum = ''
+

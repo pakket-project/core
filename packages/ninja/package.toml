@@ -1,0 +1,9 @@
+[package]
+name = "ninja"
+description = "A small build system with a focus on speed."
+maintainers = ["Kees van Voorthuizen <me@keesvv.nl>"]
+license = "Apache-2.0"
+version = "1.10.2"
+homepage = "https://github.com/ninja-build/ninja"
+head = "https://github.com/ninja-build/ninja.git"
+availableVersions = ["1.10.2"]
