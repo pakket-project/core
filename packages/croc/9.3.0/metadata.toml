@@ -9,4 +9,5 @@ optionalDependencies = []
 checksum = ''
 
 [silicon]
-checksum = 'c0fe3ffad23ab8d2c7dc40fc4ddd0488d10e104e2271280fb24f91aee2a12af8'
+checksum = '32d79175b2fccf784af0d58a45bf91cb035b2288493faae92975912417b16ed6'
+

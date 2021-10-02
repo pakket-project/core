@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd neofetch-7.1.0 || exit
+cd neofetch-7.1.0
 
 # Build package
-PREFIX="/$PAKKET_PKG_PATH" make install
+PREFIX="$PAKKET_PKG_PATH" make install

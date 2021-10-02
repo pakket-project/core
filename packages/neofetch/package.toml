@@ -6,3 +6,4 @@ version = "7.1.0"
 homepage = "https://github.com/dylanaraps/neofetch"
 head = "https://github.com/dylanaraps/neofetch.git"
 availableVersions = ["7.1.0"]
+maintainers = []

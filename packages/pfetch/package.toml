@@ -6,3 +6,4 @@ version = "0.6.0"
 homepage = "https://github.com/dylanaraps/pfetch"
 head = "https://github.com/dylanaraps/pfetch.git"
 availableVersions = ["0.6.0"]
+maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]
