@@ -9,7 +9,7 @@ on:
         default: "0"
 
 jobs:
-  test:
+  builder:
     runs-on: "${{matrix.os}}"
     strategy:
       matrix:
