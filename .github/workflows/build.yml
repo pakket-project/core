@@ -1,0 +1,42 @@
+name: "Build and push packages to mirror"
+
+on:
+  workflow_dispatch:
+    inputs:
+      PR:
+        description: "PR number"
+        required: true
+        default: "0"
+
+jobs:
+  test:
+    runs-on: "${{matrix.os}}"
+    strategy:
+      matrix:
+        include:
+          - os: ["self-hosted", "silicon"]
+            shell: "/usr/bin/arch -arch arm64e /bin/bash --noprofile --norc -eo pipefail {0}"
+            arch: "silicon"
+          - os: ["self-hosted", "intel"]
+            shell: "bash"
+            arch: "intel"
+
+    defaults:
+      run:
+        shell: "${{matrix.shell}}"
+
+    steps:
+      - name: "check arch"
+        run: "arch"
+
+      - name: "checkout repository"
+        uses: actions/checkout@v2
+
+      - name: "setup pakket-builder"
+        uses: pakket-project/actions/setup-builder@main
+
+      - name: "run pakket-builder"
+        uses: pakket-project/actions/build@main
+        with:
+          PR: "${{ github.event.inputs.PR }}"
+          GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
