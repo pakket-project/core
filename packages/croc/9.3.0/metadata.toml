@@ -6,7 +6,7 @@ buildDependencies = ['go']
 optionalDependencies = []
 
 [intel]
-checksum = ''
+checksum = '532c62d0c1040a0081dafb125845c0258393732634765280dc3dae0f4cc14188'
 
 [silicon]
 checksum = '32d79175b2fccf784af0d58a45bf91cb035b2288493faae92975912417b16ed6'
