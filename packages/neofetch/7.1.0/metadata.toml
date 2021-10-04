@@ -6,7 +6,7 @@ buildDependencies = []
 optionalDependencies = []
 
 [intel]
-checksum = '6282d0d502a2a0d5bbad64b47c70d5a6b2a2853a6e82f8f5ee10b19c8a72cab8'
+checksum = '0b11076389c251732b6973a1cd969090d2f9fa110a18b4a08ddfad8ea5e6fdd0'
 
 [silicon]
 checksum = 'b79b71f7cb8d13e190e82858485f86bc467895cebaf30587c303ac12e7f63cf4'
