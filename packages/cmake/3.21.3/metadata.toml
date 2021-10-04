@@ -1,0 +1,13 @@
+url = 'https://github.com/Kitware/CMake/releases/download/v3.21.3/cmake-3.21.3.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = ['ncurses']
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = 'bf02a40950c40a783acd7cdc8a7bbc89880affd052d378e9d3d8fcabbbe6d211'
+
+[silicon]
+checksum = 'c2282e4a244dac04e6761bb20a60f281bbfa5c5b4785e229d0b712bc52651469'
+

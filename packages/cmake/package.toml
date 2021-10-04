@@ -1,0 +1,9 @@
+[package]
+name = "cmake"
+description = "Cross-platform make"
+maintainers = ["Sting Alleman <sting@pakket.sh>"]
+license = "BSD-3-Clause"
+version = "3.21.3"
+homepage = "https://cmake.org"
+head = "https://gitlab.kitware.com/cmake/cmake.git"
+availableVersions = ["3.21.3"]
