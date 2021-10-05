@@ -1,13 +1,13 @@
-url = "https://github.com/pakket-project/builder/archive/refs/tags/v0.0.1.tar.gz"
+url = 'https://github.com/pakket-project/builder/archive/refs/tags/v0.0.1.tar.gz'
 supportsRosetta = false
-
 [dependencies]
 dependencies = []
-buildDependencies = ["go"]
+buildDependencies = ['go']
 optionalDependencies = []
 
 [intel]
-checksum = ""
+checksum = ''
 
 [silicon]
-checksum = '0566731c1798f4ae487bb6907c89da71b16fc03077a1a45148436b5945b8fe68'
+checksum = 'bcaa3edf1a393d14636ec298d77fa0b7501125e2cbc792209c8740a2e3fcbdb0'
+
