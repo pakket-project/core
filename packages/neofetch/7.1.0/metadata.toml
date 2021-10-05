@@ -9,5 +9,4 @@ optionalDependencies = []
 checksum = '0b11076389c251732b6973a1cd969090d2f9fa110a18b4a08ddfad8ea5e6fdd0'
 
 [silicon]
-checksum = 'b79b71f7cb8d13e190e82858485f86bc467895cebaf30587c303ac12e7f63cf4'
-
+checksum = 'f57bf59c8dad0388707dca09f705268d0163cc4b4fc7aeba2b34ac32b7d03b66'
