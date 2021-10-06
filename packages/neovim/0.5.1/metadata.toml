@@ -6,7 +6,7 @@ buildDependencies = ["ninja", "libtool", "automake", "cmake", "pkg-config", "get
 optionalDependencies = []
 
 [intel]
-checksum = 'f9852282544aa839488901abc3667162501ddb87191c2dbf306d5195b36295db'
+checksum = '833818e25cb6340fbe812a0a2557bc32b7659dce6d104a4dbb7b54e2ffb80f4e'
 
 [silicon]
 checksum = ''
