@@ -40,7 +40,7 @@ jobs:
       - name: "setup pakket-builder"
         uses: pakket-project/actions/setup-builder@main
         with:
-          version: "0.0.1"
+          version: "0.0.2"
 
       - name: "run pakket-builder"
         uses: pakket-project/actions/build@main
