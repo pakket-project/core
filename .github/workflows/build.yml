@@ -32,13 +32,17 @@ jobs:
         run: "arch"
 
       - name: "clean working directory"
-        run: "chmod -R 700 ${{ github.workspace }}/* && rm -rf ${{ github.workspace }}/* ${{ github.workspace }}/.* || true"
+        run: |
+          chmod -R 700 ${{ github.workspace }}/*
+          rm -rf ${{ github.workspace }}/* ${{ github.workspace }}/.* || true
 
       - name: "checkout repository"
         uses: actions/checkout@v2
 
       - name: "setup pakket-builder"
         uses: pakket-project/actions/setup-builder@main
+        with:
+          version: "0.0.1"
 
       - name: "run pakket-builder"
         uses: pakket-project/actions/build@main
@@ -47,4 +51,6 @@ jobs:
           GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: "clean working directory"
-        run: "chmod -R 700 ${{ github.workspace }}/* && rm -rf ${{ github.workspace }}/* ${{ github.workspace }}/.* || true"
+        run: |
+          chmod -R 700 ${{ github.workspace }}/*
+          rm -rf ${{ github.workspace }}/* ${{ github.workspace }}/.* || true
