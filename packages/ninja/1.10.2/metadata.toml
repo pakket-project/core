@@ -6,7 +6,7 @@ buildDependencies = ['cmake']
 optionalDependencies = []
 
 [intel]
-checksum = '0bc752b16df76c8ac4de6833b519c2da75ba766b26c9151f5fa3c0172bf953b1'
+checksum = '2174446f9fa6f81e92dc35a50739c2fd3f9ce30524ec5e1196a3d09e1b6d9961'
 
 [silicon]
 checksum = '5f93c828bb2d164a262e12fbd8c963833f996d107200e1b7565797550f90ca1f'
