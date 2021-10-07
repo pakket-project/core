@@ -1,0 +1,12 @@
+url = "https://www.openssl.org/source/openssl-1.1.1l.tar.gz"
+supportsRosetta = false
+[dependencies]
+dependencies = ["ca-certificates"]
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = ''
+
+[silicon]
+checksum = ''

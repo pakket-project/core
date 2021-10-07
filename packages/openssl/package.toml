@@ -1,0 +1,9 @@
+[package]
+name = "OpenSSL"
+description = "Cryptography and SSL/TLS Toolkit"
+license = "OpenSSL"
+version = "1.1.1l"
+homepage = "https://openssl.org/"
+head = "https://github.com/openssl/openssl.git"
+availableVersions = ["1.1.1l"]
+maintainers = []
