@@ -1,0 +1,12 @@
+url = 'https://ftp.gnu.org/gnu/gdbm/gdbm-1.21.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = '4748302c526aab200c74437a56f20068791e0a79da70f41d91a0d93397dfd811'
+
+[silicon]
+checksum = ''
