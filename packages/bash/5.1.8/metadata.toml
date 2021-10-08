@@ -1,0 +1,13 @@
+url = "http://ftp.gnu.org/gnu/bash/bash-5.1.8.tar.gz"
+supportsRosetta = true
+
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = ""
+
+[silicon]
+checksum = 'a10ea561572e96b1a1074bf7d029e60f2de7d76ffc6f2003f87f16a9ecf83e0f'
