@@ -5,8 +5,13 @@ on:
     inputs:
       PR:
         description: "PR number"
-        required: true
-        default: "0"
+        required: false
+      package:
+        description: "Package name (if not PR)"
+        required: false
+      version:
+        description: "Package version (if not PR)"
+        required: false
 
 jobs:
   builder:
@@ -46,6 +51,8 @@ jobs:
         uses: pakket-project/actions/build@main
         with:
           PR: "${{ github.event.inputs.PR }}"
+          package: "${{ github.event.inputs.package }}"
+          version: "${{ github.event.inputs.version }}"
           GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: "clean working directory"
