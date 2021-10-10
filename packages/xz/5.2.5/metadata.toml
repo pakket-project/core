@@ -1,0 +1,14 @@
+url = "https://downloads.sourceforge.net/project/lzmautils/xz-5.2.5.tar.gz"
+supportsRosetta = false
+
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+
+[intel]
+checksum = ""
+
+[silicon]
+checksum = '1a13cf7df03a0e10d1f9caa53f6bd296ca77b66ca9279958bbf624353bdb2d41'
