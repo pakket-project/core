@@ -2,7 +2,7 @@ url = 'https://ftp.gnu.org/gnu/wget/wget-1.21.2.tar.gz'
 supportsRosetta = false
 [dependencies]
 dependencies = ['openssl']
-buildDependencies = []
+buildDependencies = ['pkg-config']
 optionalDependencies = []
 
 [intel]
