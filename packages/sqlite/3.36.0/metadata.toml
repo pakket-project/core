@@ -1,0 +1,14 @@
+url = "https://sqlite.org/2021/sqlite-autoconf-3360000.tar.gz"
+supportsRosetta = false
+
+[dependencies]
+dependencies = ["readline"]
+buildDependencies = []
+optionalDependencies = []
+
+
+[intel]
+checksum = ""
+
+[silicon]
+checksum = 'b2b8b0a493f9a8fa65c40d4191daa90bd9fa27f0311aa8b7851183131e0e39ea'
