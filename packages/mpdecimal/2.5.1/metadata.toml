@@ -1,0 +1,13 @@
+url = "https://www.bytereef.org/software/mpdecimal/releases/mpdecimal-2.5.1.tar.gz"
+supportsRosetta = true
+
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = '5fe55046e34241a1f313e1c6ca4c014acb6ee94fe93e06e06e50d647a76f315c'
+
+[silicon]
+checksum = 'b999cafeabdaa8ebe8048d2810f781bbe67c0c6c7a0b0e3d2b4f165c931cdd8d'
