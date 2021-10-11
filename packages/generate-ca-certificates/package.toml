@@ -1,0 +1,9 @@
+[package]
+name = "generate-ca-certificates"
+description = "update-ca-certificates certificates generator package for macos"
+maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]
+license = "GPL-3.0-or-later"
+version = "1.0"
+homepage = "https://github.com/wouter173/generate-ca-certificates"
+head = "https://github.com/wouter173/generate-ca-certificates.git"
+availableVersions = ["1.0"]

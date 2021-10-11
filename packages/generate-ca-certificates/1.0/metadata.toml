@@ -1,0 +1,13 @@
+url = 'https://github.com/wouter173/generate-ca-certificates/archive/refs/tags/1.0.tar.gz'
+supportsRosetta = false
+
+[dependencies]
+dependencies = []
+buildDependencies = ['go']
+optionalDependencies = []
+
+[intel]
+checksum = ''
+
+[silicon]
+checksum = 'e4bb6614cbf87906918d16f3c12d8e2d3be5632c1ea1bf4d0e0e2def5ef03ebe'
