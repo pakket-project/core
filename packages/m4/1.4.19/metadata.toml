@@ -3,7 +3,7 @@ supportsRosetta = false
 
 [dependencies]
 dependencies = []
-buildDependencies = ['']
+buildDependencies = []
 optionalDependencies = []
 
 [intel]
