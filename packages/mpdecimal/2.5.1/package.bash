@@ -1,6 +1,4 @@
-#!/bin/bash
-
-cd bash-5.1.8
+cd mpdecimal-2.5.1
 
 ./configure --prefix=$PAKKET_PKG_PATH
 make

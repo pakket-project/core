@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd builder-0.0.1
 
 # Build binary

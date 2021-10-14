@@ -1,6 +1,4 @@
-#!/bin/bash
-
-cd ninja-1.10.2 || exit
+cd ninja-1.10.2
 
 # Build binary
 cmake -DCMAKE_INSTALL_PREFIX="$PAKKET_PKG_PATH" -Bbuild-cmake
