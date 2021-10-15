@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd generate-ca-certificates-1.0
 
 go build
