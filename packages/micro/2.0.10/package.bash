@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 cd micro-2.0.10
 
 make build

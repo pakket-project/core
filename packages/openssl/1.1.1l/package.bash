@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd openssl-1.1.1l
 
 unset OPENSSL_LOCAL_CONFIG_DIR

@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd pfetch-0.6.0
 
 # Build package

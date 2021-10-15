@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd pkg-config-0.29.2 || exit
 
 ./configure --disable-debug --prefix="$(pwd)"/prefix --disable-host-tool --with-internal-glib

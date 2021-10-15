@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd croc-9.3.0 || exit
 
 go build -trimpath -v -ldflags="-s -w"

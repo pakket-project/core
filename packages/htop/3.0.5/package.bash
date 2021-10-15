@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd htop-3.0.5
 
 ./autogen.sh

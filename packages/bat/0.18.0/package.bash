@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd bat-0.18.0 || exit
 
 # Build binary
