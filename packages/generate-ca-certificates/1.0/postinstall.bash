@@ -1,1 +1,1 @@
-/usr/local/bin/generate-ca-certificates /usr/local/etc /usr/local/etc
+"$PAKKET_PREFIX"/bin/generate-ca-certificates "$PAKKET_PREFIX"/etc/generate-ca-certificates "$PAKKET_PREFIX"/etc/generate-ca-certificates
