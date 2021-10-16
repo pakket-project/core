@@ -6,3 +6,4 @@ version = "1.21.2"
 homepage = "https://www.gnu.org/software/wget/"
 head = "https://git.savannah.gnu.org/cgit/wget.git"
 availableVersions = ["1.21.2"]
+maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]
