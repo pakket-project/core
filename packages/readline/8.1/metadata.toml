@@ -1,0 +1,13 @@
+url = 'https://ftp.gnu.org/gnu/readline/readline-8.1.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = '9e4fc8375c51755793e119c00ecb8b8b1b254acc7b2e9b039ba12dee32b41c90'
+
+[silicon]
+checksum = 'c9508a0924eb2a8ac60e21b555293520ac7f3b8e142721715a9e74c4b8e2814b'
+
