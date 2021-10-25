@@ -1,0 +1,13 @@
+url = 'http://fresh-center.net/linux/misc/zstd-1.5.0.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = ['cmake']
+optionalDependencies = []
+
+[intel]
+checksum = 'cb2c58341f15bb01fe7135d92853ba2d24ee3162092bf480109ee1b2d15f2a98'
+
+[silicon]
+checksum = '3f6b99872156817d832460a703b2c7a13c27665a30fc543f2e1c29b896b98a7c'
+
