@@ -4,6 +4,5 @@ description = "Modern and intuitive terminal-based text editor"
 license = "MIT"
 version = "2.0.10"
 homepage = "https://github.com/zyedidia/micro"
-head = "https://github.com/zyedidia/micro.git"
 availableVersions = ["2.0.10"]
 maintainers = []

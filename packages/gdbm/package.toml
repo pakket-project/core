@@ -4,6 +4,5 @@ description = "GNU database manager"
 license = "GPL-3.0-or-later"
 version = "1.21"
 homepage = "https://www.gnu.org/software/gdbm/"
-head = "https://git.savannah.gnu.org/git/gdbm.git"
 availableVersions = ["1.21"]
 maintainers = []

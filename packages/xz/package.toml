@@ -5,5 +5,4 @@ maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]
 license = "Public Domain and LGPL-2.1-or-later and GPL-2.0-or-later and GPL-3.0-or-later"
 version = "5.2.5"
 homepage = "https://tukaani.org/xz/"
-head = "https://git.tukaani.org/xz.git"
 availableVersions = ["5.2.5"]

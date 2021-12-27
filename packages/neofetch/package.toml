@@ -4,6 +4,5 @@ description = "A command-line system information tool written in bash 3.2+"
 license = "MIT"
 version = "7.1.0"
 homepage = "https://github.com/dylanaraps/neofetch"
-head = "https://github.com/dylanaraps/neofetch.git"
 availableVersions = ["7.1.0"]
 maintainers = []
