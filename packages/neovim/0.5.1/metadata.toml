@@ -1,0 +1,13 @@
+url = 'https://github.com/neovim/neovim/archive/refs/tags/v0.5.1.tar.gz'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = ["ninja", "libtool", "automake", "cmake", "pkg-config", "gettext", "curl"]
+optionalDependencies = []
+
+[intel]
+checksum = '833818e25cb6340fbe812a0a2557bc32b7659dce6d104a4dbb7b54e2ffb80f4e'
+
+[silicon]
+checksum = ''
+

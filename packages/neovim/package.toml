@@ -1,0 +1,9 @@
+[package]
+name = "neovim"
+description = "Vim-fork focused on extensibility and usability."
+maintainers = ["Kees van Voorthuizen <me@keesvv.nl>"]
+license = "Apache-2.0"
+version = "0.5.1"
+homepage = "https://github.com/neovim/neovim"
+head = "https://github.com/neovim/neovim.git"
+availableVersions = ["0.5.1"]
