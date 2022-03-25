@@ -3,5 +3,5 @@ name = "pakket"
 description = "The last package manager macOS will ever need. Built with simplicity, functionality, and speed in mind."
 maintainers = ["Sting Alleman <sting@pakket.sh>", "Pakket Contributors"]
 license = "GPL-3.0"
-version = "0.0.1"
+version = "0.0.1-alpha.1"
 homepage = "https://github.com/pakket-project/pakket"
