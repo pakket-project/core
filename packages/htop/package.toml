@@ -4,4 +4,3 @@ description = "Improved top (interactive process viewer)"
 license = "GPL-2.0-or-later"
 version = "3.0.5"
 homepage = "https://htop.dev/"
-availableVersions = ["3.0.5"]

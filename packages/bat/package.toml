@@ -5,4 +5,3 @@ maintainers = []
 license = "Apache-2.0"
 version = "0.18.0"
 homepage = "https://github.com/sharkdp/bat"
-availableVersions = ["0.18.0"]

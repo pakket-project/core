@@ -5,4 +5,3 @@ maintainers = ["Kees van Voorthuizen <me@keesvv.nl>"]
 license = "MIT"
 version = "0.7.5"
 homepage = "https://github.com/ajeetdsouza/zoxide"
-availableVersions = ["0.7.5"]

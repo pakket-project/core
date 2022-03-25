@@ -5,4 +5,3 @@ maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]
 license = "GPL-3.0-or-later"
 version = "5.1.8"
 homepage = "https://www.gnu.org/software/bash/"
-availableVersions = ["5.1.8"]

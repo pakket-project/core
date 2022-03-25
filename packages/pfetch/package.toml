@@ -4,5 +4,4 @@ description = "A pretty system information tool written in POSIX sh"
 license = "MIT"
 version = "0.6.0"
 homepage = "https://github.com/dylanaraps/pfetch"
-availableVersions = ["0.6.0"]
 maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]

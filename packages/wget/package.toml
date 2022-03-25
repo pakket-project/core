@@ -4,5 +4,4 @@ description = "Internet file retriever"
 license = "GPL-3.0-or-later"
 version = "1.21.2"
 homepage = "https://www.gnu.org/software/wget/"
-availableVersions = ["1.21.2"]
 maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]

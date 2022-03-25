@@ -4,5 +4,4 @@ description = "Cryptography and SSL/TLS Toolkit"
 license = "OpenSSL"
 version = "1.1.1l"
 homepage = "https://openssl.org/"
-availableVersions = ["1.1.1l"]
 maintainers = []

@@ -5,4 +5,3 @@ maintainers = ["Kees van Voorthuizen <me@keesvv.nl>"]
 license = "Apache-2.0"
 version = "1.10.2"
 homepage = "https://github.com/ninja-build/ninja"
-availableVersions = ["1.10.2"]

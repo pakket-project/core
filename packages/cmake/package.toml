@@ -5,4 +5,3 @@ maintainers = ["Sting Alleman <sting@pakket.sh>"]
 license = "BSD-3-Clause"
 version = "3.21.3"
 homepage = "https://cmake.org"
-availableVersions = ["3.21.3"]

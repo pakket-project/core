@@ -5,4 +5,3 @@ maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]
 license = "BSD-2-Clause"
 version = "2.5.1"
 homepage = "https://www.bytereef.org/mpdecimal/"
-availableVersions = ["2.5.1"]
