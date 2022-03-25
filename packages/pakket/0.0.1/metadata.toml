@@ -1,0 +1,12 @@
+url = 'https://github.com/pakket-project/pakket/releases/tag/v0.0.1-alpha.1'
+supportsRosetta = false
+[dependencies]
+dependencies = []
+buildDependencies = ['go']
+optionalDependencies = []
+
+[intel]
+checksum = ''
+
+[silicon]
+checksum = ''
