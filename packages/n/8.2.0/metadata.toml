@@ -1,0 +1,13 @@
+url = "https://github.com/tj/n/archive/refs/tags/v8.2.0.tar.gz"
+supportsRosetta = false
+
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = ""
+
+[silicon]
+checksum = 'e98b7dc103adf997fa7ec8c799d1a42b82501ebd0caa7290f95c2c9f5f82dd89'
