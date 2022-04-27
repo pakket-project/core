@@ -1,0 +1,13 @@
+url = 'https://ftp.gnu.org/gnu/m4/m4-1.4.19.tar.xz'
+supportsRosetta = false
+
+[dependencies]
+dependencies = []
+buildDependencies = []
+optionalDependencies = []
+
+[intel]
+checksum = ''
+
+[silicon]
+checksum = '21a977d581beef180bdce5c74d64e332f6a7013097529eeac866af4d00fe845b'

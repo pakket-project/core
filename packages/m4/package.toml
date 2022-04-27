@@ -1,0 +1,9 @@
+[package]
+name = "m4"
+description = "Macro processing language"
+maintainers = []
+license = "GPL-3.0-or-later"
+version = "1.4.19"
+homepage = "https://www.gnu.org/software/m4"
+head = "https://git.savannah.gnu.org/git/m4.git/"
+availableVersions = ["1.4.19"]
