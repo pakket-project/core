@@ -1,5 +1,4 @@
 url = "https://github.com/sharkdp/bat/archive/refs/tags/v0.18.0.tar.gz"
-supportsRosetta = true
 
 [dependencies]
 dependencies = []

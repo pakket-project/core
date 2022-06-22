@@ -1,5 +1,5 @@
 url = 'https://ftp.gnu.org/gnu/gdbm/gdbm-1.21.tar.gz'
-supportsRosetta = false
+
 [dependencies]
 dependencies = []
 buildDependencies = []

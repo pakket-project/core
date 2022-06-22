@@ -1,5 +1,4 @@
 url = "https://github.com/htop-dev/htop/archive/3.0.5.tar.gz"
-supportsRosetta = false
 
 [dependencies]
 dependencies = ["ncurses"]

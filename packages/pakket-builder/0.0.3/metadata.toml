@@ -1,5 +1,5 @@
 url = 'https://github.com/pakket-project/builder/archive/refs/tags/v0.0.3.tar.gz'
-supportsRosetta = false
+
 [dependencies]
 dependencies = []
 buildDependencies = ['go']

@@ -1,10 +1,9 @@
 url = "https://github.com/tj/n/archive/refs/tags/v8.2.0.tar.gz"
-supportsRosetta = false
 
 [dependencies]
 dependencies = []
 buildDependencies = []
-optionalDependencies = []
+optionalDependencies = ["hello"]
 
 [intel]
 checksum = '6b3a53d4a8d122eb470d0d6fe7525f751e64e5458131d7142fd233c9b7defe78'

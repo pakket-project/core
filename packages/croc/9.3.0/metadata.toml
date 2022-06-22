@@ -1,5 +1,5 @@
 url = 'https://github.com/schollz/croc/archive/refs/tags/v9.3.0.tar.gz'
-supportsRosetta = false
+
 [dependencies]
 dependencies = []
 buildDependencies = ['go']

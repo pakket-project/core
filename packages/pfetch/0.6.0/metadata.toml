@@ -1,5 +1,5 @@
 url = 'https://github.com/dylanaraps/pfetch/archive/refs/tags/0.6.0.tar.gz'
-supportsRosetta = false
+
 [dependencies]
 dependencies = []
 buildDependencies = []

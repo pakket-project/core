@@ -1,5 +1,5 @@
 url = 'https://github.com/zyedidia/micro/archive/refs/tags/v2.0.10.tar.gz'
-supportsRosetta = false
+
 [dependencies]
 dependencies = []
 buildDependencies = ['go']

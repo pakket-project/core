@@ -28,7 +28,6 @@ EOF
 
 #build package
 
-
 ./configure --disable-dependency-tracking --disable-silent-rules --enable-libgdbm-compat --without-readline --prefix="$PAKKET_PKG_PATH"
 
 make install
