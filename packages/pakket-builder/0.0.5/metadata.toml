@@ -1,14 +1,10 @@
 url = 'https://github.com/pakket-project/builder/archive/refs/tags/v0.0.5.tar.gz'
 [dependencies]
 
-buildDependencies = [
-  'go'
-]
-
+buildDependencies = ['go']
 
 [amd64]
-
+checksum = 'e3a96bdc40dac840f9e52cbb7d8c66d661831911e346cdf591a2f19d8de3225d'
 
 [arm64]
 checksum = '9eeefec2f4cffee5df9cb1cb423f17f35850fc8fb6b12da56721a78e27be5b29'
-
