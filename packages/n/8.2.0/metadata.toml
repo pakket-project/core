@@ -6,7 +6,7 @@ buildDependencies = []
 optionalDependencies = ["hello"]
 
 [amd64]
-checksum = '6b3a53d4a8d122eb470d0d6fe7525f751e64e5458131d7142fd233c9b7defe78'
+checksum = '9ee87eb804acf9bcad6409d285047cb09a6b2a999bc01b33b5fa0aea8fcd543f'
 
 [arm64]
 checksum = 'eb23251cef2e9a6ea13769d85811b38ab5416883173831e01814b2d5fe761ff3'
