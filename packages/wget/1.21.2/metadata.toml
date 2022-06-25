@@ -5,9 +5,8 @@ dependencies = ['openssl@1.1.1l']
 buildDependencies = ['pkg-config']
 optionalDependencies = []
 
-[intel]
+[amd64]
 checksum = '03c66e64053f1df870b24b30228e31ef4f788061d9e2ed4721da573030fd51e3'
 
-[silicon]
+[arm64]
 checksum = '08d0d718f4a5333644bbc9cb71f7037cfbe2221d2cce603519d6ea765efff502'
-

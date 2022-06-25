@@ -5,8 +5,8 @@ dependencies = []
 buildDependencies = []
 optionalDependencies = ["hello"]
 
-[intel]
+[amd64]
 checksum = '6b3a53d4a8d122eb470d0d6fe7525f751e64e5458131d7142fd233c9b7defe78'
 
-[silicon]
+[arm64]
 checksum = '5e0cc9cc296f57bfa2727d438d741dac36ef3e740b5ea5c40e80861389bf16e6'

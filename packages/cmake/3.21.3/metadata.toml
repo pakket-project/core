@@ -5,9 +5,8 @@ dependencies = ['ncurses']
 buildDependencies = []
 optionalDependencies = []
 
-[intel]
+[amd64]
 checksum = 'bf02a40950c40a783acd7cdc8a7bbc89880affd052d378e9d3d8fcabbbe6d211'
 
-[silicon]
+[arm64]
 checksum = 'c2282e4a244dac04e6761bb20a60f281bbfa5c5b4785e229d0b712bc52651469'
-

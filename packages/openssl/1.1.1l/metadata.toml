@@ -1,12 +1,14 @@
 url = "https://www.openssl.org/source/openssl-1.1.1l.tar.gz"
 
 [dependencies]
-dependencies = ["generate-ca-certificates"]
+dependencies = [
+  "generate-ca-certificates",
+]
 buildDependencies = []
 optionalDependencies = []
 
-[intel]
+[amd64]
 checksum = '0679ea1877643c0bdbe886a80d398ed70c05b0cbbf192cb463a1702c95640451'
 
-[silicon]
+[arm64]
 checksum = 'f79df2575b4b7b6c1c8e78669d5cbaaf1630affd92c1c951d96205261eff9b59'

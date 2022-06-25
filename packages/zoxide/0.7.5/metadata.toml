@@ -5,9 +5,8 @@ dependencies = []
 buildDependencies = ['rust']
 optionalDependencies = []
 
-[intel]
+[amd64]
 checksum = 'fa3d1a431c597567a9308f3918eb3c4f09d6289c88d7ff482902b754ce3ed613'
 
-[silicon]
+[arm64]
 checksum = '963b7f5b40a0c2e477f224e0f50be059bd150ad219300aca6809a795026a233f'
-
