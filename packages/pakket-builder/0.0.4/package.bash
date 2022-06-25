@@ -1,4 +1,4 @@
-cd builder-0.0.3
+cd builder-0.0.4
 
 # Build binary
 go build -o "$(pwd)/pakket-builder" -trimpath -v -ldflags="-s -w" .
