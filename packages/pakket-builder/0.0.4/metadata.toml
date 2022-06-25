@@ -1,0 +1,6 @@
+url = 'https://github.com/pakket-project/builder/archive/refs/tags/v0.0.4.tar.gz'
+
+[dependencies]
+dependencies = []
+buildDependencies = ['go']
+optionalDependencies = []
